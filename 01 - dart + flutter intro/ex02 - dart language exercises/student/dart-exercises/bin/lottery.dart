@@ -18,8 +18,13 @@ void main() {
  {
     int value = rng.nextInt(largestNum) + 1;
     while (lotteryNumbers.contains(value)) {
-      print("ERRRRRROR");
+      value = rng.nextInt(largestNum) + 1;
     }
+
+    // if(lotteryNumbers.contains(value))
+    // i--;
+    //else 
+    // lottonumbers[i] = value;
     lotteryNumbers[i] = value;
  }
  print("Your lottery numbers are: $lotteryNumbers");

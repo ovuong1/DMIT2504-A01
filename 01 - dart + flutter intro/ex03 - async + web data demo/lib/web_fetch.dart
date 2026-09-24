@@ -10,3 +10,8 @@ Future<dynamic> getJSON(String endpoint) async {
   final response = await http.get(url);
   return jsonDecode(response.body);
 }
+
+Future<String> getRandomDogPic() async {
+  var data = await getJSON('https://dog.ceo/api/breeds/image/random');
+  return data['message'];
+}

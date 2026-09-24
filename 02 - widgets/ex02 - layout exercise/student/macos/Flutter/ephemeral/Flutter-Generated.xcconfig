@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/home/oa/.sdk/flutter
-FLUTTER_APPLICATION_PATH=/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout
-FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=/home/oa/_workspace/_nait/2026-fall/DMIT2504-A02/02 - widgets/week_03_profile_layout/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework
+FLUTTER_ROOT=C:\Users\Oscar\flutter
+FLUTTER_APPLICATION_PATH=C:\GH\2504\DMIT2504-A01\02 - widgets\ex02 - layout exercise\student
+FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=C:\GH\2504\DMIT2504-A01\02 - widgets\ex02 - layout exercise\student\macos\Flutter\ephemeral\Packages\.packages\FlutterFramework
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=0.1.0
